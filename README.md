@@ -1,3 +1,3 @@
 # git-it-done
 
-# University of Toronto Coding BootCamp Code Along Week 5 - Third Party API's
+# University of Toronto Coding BootCamp Code Along Week 6 - Server Side API's
